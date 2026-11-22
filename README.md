@@ -6,7 +6,7 @@
 
 > A modern, interactive web application demonstrating [**formfold**](https://www.npmjs.com/package/formfold) — a TypeScript utility that safely converts native JavaScript `FormData` into structured objects.
 
-**Live Production Demo:** [https://formfold-demo.vercel.app](https://formfold-demo.vercel.app) *(or active deployment link)*
+**Live Production Demo:** [https://formfold-demo.vercel.app](https://formfold-demo.vercel.app)
 
 ---
 
